@@ -5,6 +5,7 @@ body {
 .container {
 	width: 80%;
 	margin: 0 auto;
+	border: dotted 20px gray;
 }
 
 h1 {
