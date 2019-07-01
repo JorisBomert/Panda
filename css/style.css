@@ -1,0 +1,43 @@
+body {
+	font-family: Arial;
+}
+
+.container {
+	width: 80%;
+	margin: 0 auto;
+}
+
+h1 {
+	text-align: center;
+}
+
+.container h2 {
+	text-align: center;
+}
+
+#depresso {
+	width: 50%;
+	display: block;
+	margin: 0 auto;
+}
+
+#cubs {
+	width: 50%;
+	display: block;
+	margin: 0 auto;
+	padding-bottom: 2em;
+}
+
+table {
+	margin: 0 auto;
+	border: 1px solid black;
+}
+
+th {
+	border: 1px solid black;
+}
+
+table,
+td {
+    text-align: center;
+}
