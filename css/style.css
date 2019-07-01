@@ -1,5 +1,6 @@
 body {
 	font-family: Arial;
+	background-color: #fffda3;
 }
 
 .container {
@@ -47,7 +48,7 @@ table {
 	margin: 0 auto;
 	border: 1px solid black;
 	border-collapse: collapse;
-	
+	background-color: #fff;
 }
 
 th {
